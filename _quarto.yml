@@ -10,8 +10,8 @@ website:
     background: primary
   navbar:
     left:
-      - href: index.qmd
-        text: "Meet the Team"
+      # - href: index.qmd
+      #   text: "Meet the Team"
       - href: introduction.qmd
         text: "Introduction"
       - href: data_overview.qmd

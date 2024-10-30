@@ -1,13 +1,17 @@
 ---
-title: "Meet the Team"
+title: "The Housing Analysis"
 ---
 
-Meet the team behind **The Housing Analysis**!
+# Meet the Team
 
 The group members are current Masters of Data Science students at the University of Colorado - Boulder.
 
-# Jessica Groven
+## Jessica Groven
 
-# Julia Gallwitz
+## Julia Gallwitz
 
-# Carl Klein
+## Carl Klein
+
+# Motivation
+
+The motivation behind this project.
