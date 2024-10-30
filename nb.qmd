@@ -1,0 +1,5 @@
+---
+title: "Naive Bayes"
+---
+
+Naive Bayes for the housing analysis.

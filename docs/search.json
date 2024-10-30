@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "svm.html",
+    "href": "svm.html",
+    "title": "Support Vector Machine",
+    "section": "",
+    "text": "SVM for the housing analysis."
+  },
+  {
+    "objectID": "pca.html",
+    "href": "pca.html",
+    "title": "Principle Component Analysis",
+    "section": "",
+    "text": "PCA for the housing analysis."
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction to the housing analysis."
+  },
+  {
+    "objectID": "dt.html",
+    "href": "dt.html",
+    "title": "Decision Trees",
+    "section": "",
+    "text": "Decision Trees for the housing analysis."
+  },
+  {
+    "objectID": "data_exploration.html",
+    "href": "data_exploration.html",
+    "title": "Data Exploration",
+    "section": "",
+    "text": "Exploration of the data within the housing analysis."
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion",
+    "section": "",
+    "text": "Conclusion for the housing analysis."
+  },
+  {
+    "objectID": "arm.html",
+    "href": "arm.html",
+    "title": "Association Rule Mining",
+    "section": "",
+    "text": "Association Rule Mining for the housing analysis."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nCode1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "clustering.html",
+    "href": "clustering.html",
+    "title": "Clustering",
+    "section": "",
+    "text": "Clustering for the housing analysis."
+  },
+  {
+    "objectID": "data_cleaning.html",
+    "href": "data_cleaning.html",
+    "title": "Data Cleaning",
+    "section": "",
+    "text": "Data cleaning for the housing analysis."
+  },
+  {
+    "objectID": "data_overview.html",
+    "href": "data_overview.html",
+    "title": "Data Overview",
+    "section": "",
+    "text": "Overview of the data within the housing analysis."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Meet the Team",
+    "section": "",
+    "text": "Meet the team behind The Housing Analysis!\nThe group members are current Masters of Data Science students at the University of Colorado - Boulder.\n\nJessica Groven\n\n\nJulia Gallwitz\n\n\nCarl Klein"
+  },
+  {
+    "objectID": "nb.html",
+    "href": "nb.html",
+    "title": "Naive Bayes",
+    "section": "",
+    "text": "Naive Bayes for the housing analysis."
+  },
+  {
+    "objectID": "regression.html",
+    "href": "regression.html",
+    "title": "Regression",
+    "section": "",
+    "text": "Regression for the housing analysis."
+  }
+]

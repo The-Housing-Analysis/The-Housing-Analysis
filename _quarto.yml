@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Housing Analysis"
+  favicon: images/housing_icon.jpg
+  page-footer:
+    center: "Housing Analysis"
+    background: primary
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Meet the Team"
+      - href: introduction.qmd
+        text: "Introduction"
+      - href: data_overview.qmd
+        text: "Data Overview"
+      - href: data_cleaning.qmd
+        text: "Data Cleaning"
+      - href: data_exploration.qmd
+        text: "Data Exploration"
+      - text: "Models"
+        menu: 
+        - href: pca.qmd
+          text: "Principle Component Analysis"
+        - href: clustering.qmd
+          text: "Clustering"
+        - href: arm.qmd
+          text: "Association Rule Mining"
+        - href: dt.qmd
+          text: "Decision Trees"
+        - href: nb.qmd
+          text: "Naive Bayes"
+        - href: svm.qmd
+          text: "Support Vector Machine"
+        - href: regression.qmd
+          text: "Regression"
+      - href: conclusion.qmd
+        text: "Conclusion"
+    right: 
+      - icon: github
+        href: https://github.com/The-Brewery-Project/The-Brewery-Project
+
+format:
+  html:
+    email-obfuscation: javascript
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    citations-hover: true
+    code-link: true
+    code-fold: true
+    code-tools: false
+    code-block-border-left: primary
+    toc: true
+    theme: flatly
+    css: styles.css

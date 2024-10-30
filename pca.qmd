@@ -1,0 +1,5 @@
+---
+title: "Principle Component Analysis"
+---
+
+PCA for the housing analysis.

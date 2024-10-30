@@ -1,0 +1,5 @@
+---
+title: "Data Exploration"
+---
+
+Exploration of the data within the housing analysis.

@@ -1,0 +1,5 @@
+---
+title: "Association Rule Mining"
+---
+
+Association Rule Mining for the housing analysis.
