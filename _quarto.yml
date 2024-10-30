@@ -40,7 +40,7 @@ website:
         text: "Conclusion"
     right: 
       - icon: github
-        href: https://github.com/The-Brewery-Project/The-Brewery-Project
+        href: https://github.com/The-Housing-Analysis/The-Housing-Analysis
 
 format:
   html:
